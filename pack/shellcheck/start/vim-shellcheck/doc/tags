@@ -1,0 +1,12 @@
+g:shellcheck_ll_open	shellcheck.txt	/*g:shellcheck_ll_open*
+g:shellcheck_qf_open	shellcheck.txt	/*g:shellcheck_qf_open*
+shellcheck	shellcheck.txt	/*shellcheck*
+shellcheck-:LShellCheck	shellcheck.txt	/*shellcheck-:LShellCheck*
+shellcheck-:ShellCheck	shellcheck.txt	/*shellcheck-:ShellCheck*
+shellcheck-about	shellcheck.txt	/*shellcheck-about*
+shellcheck-commands	shellcheck.txt	/*shellcheck-commands*
+shellcheck-compiler	shellcheck.txt	/*shellcheck-compiler*
+shellcheck-configuration	shellcheck.txt	/*shellcheck-configuration*
+shellcheck-license	shellcheck.txt	/*shellcheck-license*
+shellcheck-qf-mappings	shellcheck.txt	/*shellcheck-qf-mappings*
+shellcheck.txt	shellcheck.txt	/*shellcheck.txt*
